@@ -56,31 +56,31 @@ Example of dataset:
 
 4. Violation Pattern and Trend
 
--. Location-Based Analysis: Compared the frequency of violations across different locations to identify areas with high ticket volumes. For example, areas near shopping centers or downtown business districts showed disproportionately high violation rates due to parking shortages.
+-. Location-Based Analysis: Compares the number of violation in relative to other site to determine areas with high traffic in ticket issuance. For instance, places close to malls or business and commercial buildings received high violation rates because of inadequate parking space.
 
--. Vehicle Make Analysis: The analysis explored which vehicle brands were most frequently ticketed, showing potential correlations between vehicle ownership demographics and parking violations. This could reveal trends such as more violations among vehicles used by commuters or those frequently parked in high-traffic areas.
+-. Vehicle Make Analysis: The study looked at which vehicle brands were cited most often, and these results may have depicted relations between demographic of vehicle ownership and parking offences. This could unveil trends such as increased violations in commuter or dyna-frequently parked sh axis used frequently.-parked vehicles.
 
--. Fine Amount and Violation Severity: Analyzed the relationship between violation type and fine amount, revealing that some violations (e.g., parking in handicapped spots) consistently resulted in higher penalties compared to others (e.g., overstaying parking meters).
+-. Fine Amount and Violation Severity: Explored moderating variables using violation type and fine amount, showing that certain violations elicit higher penalties than other violations (e. g., parking in handicapped zones compared with overstaying a parking meter).
 
 5. Insights and Findings:
 
--. Most Common Violations: The analysis showed that certain types of violations—such as overstaying at parking meters and parking in no-parking zones—accounted for the majority of parking tickets. This points to areas where better enforcement or alternative parking options could reduce violations.
+-. Most Common Violations: One of the findings of the carried out analysis was the fact that some types of infractions, including extended time at parking meter zone and parking in no-standing zones, comprised the greatest percentage of parking tickets. This highlights areas that, with increased enforcement, improved enforcement or different type of parking facilities, the violations are likely to be minimized.
 
--. Location Hotspots: Identified areas, especially around commercial zones and busy intersections, where parking tickets were most frequent. This information is useful for authorities to optimize patrols and enforcement strategies.
+-. Location Hotspots: Strong correlation of parking tickets to certain areas of the city, more specifically to the places which were commercial and having crossroads. These details are important for authorities to use in the best possible way with regard to patrols and enforcement.
 
--. Time-Based Violation Patterns: Violations were concentrated during business hours (particularly mid-morning and late afternoon), indicating potential issues with parking availability during peak times.
+-. Time-Based Violation Patterns: Most violations took place during working hours extending from mid-morning to late afternoon which would suggest possible inadequate parking space during rush hours regarding business undertakings.
 
--. Unpaid Tickets: A notable portion of tickets remained unpaid, suggesting inefficiencies in the payment or enforcement process that could be addressed to improve compliance.
+-. Unpaid Tickets: Substantial number of tickets were still unpaid, which implied that there could be defects in the processes of payment or enforcement of tickets that could be worked on to increase compliance.
 
 6. Recommendations:
 
--. Enhanced Parking Enforcement: Increase the presence of enforcement officers in high-violation areas during peak hours (e.g., around business districts during late mornings and afternoons) to deter violations.
+-. Enhanced Parking Enforcement: Ensure that there are more enforcement officers on the streets during the times of the day that the violations are most common for example around business centres during late morning and afternoon hours.
 
--. Improved Signage and Education: In areas with frequent no-parking zone violations, consider adding clearer signage or running public awareness campaigns to reduce confusion about parking rules.
+-. Improved Signage and Education: Even to the parts of the road where there are many incidences of no-parking zone violations, it may be necessary to install better signs; or even launch an information campaign meant to go to drivers to clear misconceptions regarding the zoning of the road.
 
--. Dynamic Penalty System: Explore introducing a dynamic penalty system that adjusts fines based on the severity of the violation, the time of day, and location. For example, higher fines could be imposed in high-traffic zones or for repeat offenders.
+-. Dynamic Penalty System: We should consider proposing the dynamic penalty system which will include the increase of the fines for certain violations depending on their gravity, time period and geographical area. For instance one may be required to pay higher fines when you commit an offense in areas that have got a lot of traffic or when you get on the list of repeat offenders.
 
--. Online Payment and Notification System: Streamline the process for paying fines through a more accessible online portal or mobile app, reducing the number of unpaid tickets.
+-. Online Payment and Notification System: Promote easier ways of paying fines by increasing the efficiency of the online platform or a specified mobile application to limit the number of unpaid tickets.
 
 ![image](https://github.com/user-attachments/assets/dca6b1c0-1b51-486b-9a74-9406e610e7c2)
 
@@ -104,5 +104,4 @@ Example of dataset:
 
 # Outcome
 
-The project successfully identified critical parking violation trends across locations, times, and vehicle types. By understanding these patterns, the analysis provided actionable recommendations to enhance parking enforcement strategies, reduce violations, and improve parking availability in key areas. The results also laid the foundation for further predictive analysis to forecast parking violations based on factors such as location, time, and vehicle type.
-
+Over the period under consideration, the project was able to point out prevalent parking violation majoring on the location, time, and type of vehicle. Based on these patterns, the analysis made several suggestions on how to improve parking enforcement, to decrease violations and to optimise parking space in certain areas thus improving their availability. The results were also provided the premise for predictive analysis to predict the parking violations depending on the location, time and the type of vehicle.
